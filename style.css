@@ -1,0 +1,20 @@
+* {
+  text-align: center;
+  align-items: center;
+}
+
+h1 {
+  background-color: #00ffff;
+  color: #000000;
+}
+
+li {
+  color: red;
+}
+
+.short-para {
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  color: #ffffff;
+  background-color: #000000;
+}
